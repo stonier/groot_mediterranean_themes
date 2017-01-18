@@ -1,3 +1,3 @@
-# Groot icons
+# Mediterranean Themes
 
-Collection of useful icons.
+Collection of gtk mediterranean themes, originally made available at noobslabs ppa.
